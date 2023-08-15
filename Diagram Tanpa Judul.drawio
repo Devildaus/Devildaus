@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T11:56:22.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IDVs5JqquxhyOFoDInSs" version="21.6.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-15T12:12:07.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1n_UjyRza4F1ByZcJ_ta" version="21.6.8" type="github" pages="6">
   <diagram name="Halaman-1" id="RSVHsqRsbo349FEQMMsI">
     <mxGraphModel dx="1216" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,9 +173,6 @@
         <mxCell id="mU2IFYvqE7KTnkewNYmK-2" value="melihat informasi webinar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mU2IFYvqE7KTnkewNYmK-3" value="mendaftar webinar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="mU2IFYvqE7KTnkewNYmK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zydpl3n6GphYfxGXzcQ3-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -196,17 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mU2IFYvqE7KTnkewNYmK-6" value="mencari postingan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mU2IFYvqE7KTnkewNYmK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="114.5" y="239.94" />
-              <mxPoint x="114.5" y="59.94" />
-            </Array>
-            <mxPoint x="117.5" y="239.94" as="sourcePoint" />
-            <mxPoint x="250" y="59.94" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="250" y="120" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
